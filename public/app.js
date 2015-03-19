@@ -20,6 +20,7 @@ var singly = {
 // Runs after the page has loaded
 $(function() {
   // If there was no access token defined then return
+  toto;
   if (accessToken === 'undefined' ||
     accessToken === undefined) {
     return;
